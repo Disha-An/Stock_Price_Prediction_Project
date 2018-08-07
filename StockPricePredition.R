@@ -1,4 +1,4 @@
-# FE582 Assignment3 Disha An
+
 # Set or query graphical parameters
 par(mfrow=c(1,1))
 # Select Walt Disney Co (DIS) here
